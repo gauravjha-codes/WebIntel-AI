@@ -27,16 +27,17 @@ An autonomous AI web intelligence and research platform powered by **LangChain**
 
 ## 📸 Output & Interface Previews
 
-> **Note:** Place your preview images inside a `screenshots/` directory at the project root using the filenames below.
 
 ### 1. Home Dashboard & Starter Inquiries
-![Home Dashboard](screenshots/home_screen.png)
+<img width="1919" height="937" alt="Screenshot 2026-09-24 231903" src="https://github.com/user-attachments/assets/80736fcd-4658-4852-8858-f4ac0ffdcfe5" />
+
 *A minimalist dashboard featuring quick-start research prompts, engine telemetry, and mode toggles.*
 
 ---
 
 ### 2. Live Web Research & Map-Reduce Synthesis
-![Web Research Result](screenshots/web_research_result.png)
+<img width="1919" height="947" alt="Screenshot 2026-09-24 232214" src="https://github.com/user-attachments/assets/b4868d59-7888-4cf5-a937-df151a62d52f" />
+
 *Real-time intelligence report generated from live web queries, complete with verified source citations.*
 
 #### Sample Text Output:
@@ -56,13 +57,17 @@ Verified Sources (4):
 ---
 
 ### 3. Offline Direct AI Reasoner
-![Offline Reasoning Mode](screenshots/offline_reasoning.png)
+
+<img width="1919" height="935" alt="Screenshot 2026-09-24 233245" src="https://github.com/user-attachments/assets/3b60756a-b36a-4202-994a-c8cc01177cd2" />
+
 *High-speed conversational inference with automatic code formatting and syntax highlighting.*
 
 ---
 
 ### 4. Session History & History Restoration
-![Past Research History](screenshots/history_sidebar.png)
+
+<img width="289" height="317" alt="Screenshot 2026-09-24 233317" src="https://github.com/user-attachments/assets/2695083f-ab02-42bf-925d-4630f91dc81a" />
+
 *Sidebar displaying past queries categorized by mode (`Web` vs `Offline`) with single-click session reloading.*
 
 ---
